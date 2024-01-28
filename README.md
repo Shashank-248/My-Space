@@ -54,6 +54,7 @@ I am actively working towards securing internships at top-tier companies such as
 ## How to Reach Me
 
 - LinkedIn: [Shashank S](https://www.linkedin.com/in/shashank-248s/)
+- GitHub: [@Shashank-248](http://github.com/Shashank-248)
 - Email: shashankkumar248@yahoo.com
 
 Feel free to explore my repositories to gain a deeper understanding of my skills and coding style. I am open to collaboration and always eager to learn from new challenges. Let's connect and build the future together!
