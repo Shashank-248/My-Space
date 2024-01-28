@@ -23,7 +23,7 @@ This Python script serves as a voice translator, converting spoken English into 
 3. **Text-to-Speech:** Converts translated text into speech using the `gTTS` (Google Text-to-Speech) library.
 4. **Audio Playback:** Plays back translated speech to the user with the `playsound` library.
 
-[Link to the project folder](./Recipe-generator)
+[Link to the project folder]
 
 ### Recipe Generator
 
@@ -41,7 +41,7 @@ Welcome to the Recipe Generator web application! This project helps users create
 - Responsive layout for a seamless experience on various devices.
 - Utilizes the Roboto font from Google Fonts for clean and readable text.
 
-[Link to the project repository]
+[Link to the project folder](./Recipe-generator)
 
 ## Achievements
 
