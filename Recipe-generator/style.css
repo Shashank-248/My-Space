@@ -1,0 +1,111 @@
+/* Import Roboto font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+header {
+    background: linear-gradient(to right, #333, #555);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+main {
+    text-align: center;
+    margin: 20px;
+}
+
+#ingredient-input {
+    margin-bottom: 20px;
+}
+
+#ingredient-text {
+    width: 80%;
+    padding: 15px;
+    margin: 10px 0;
+    font-size: 16px;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
+
+#recipe-display {
+    border: 2px solid #4CAF50;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#recipe-list {
+    list-style: none;
+    padding: 0;
+}
+
+#recipe-list li {
+    margin-bottom: 15px;
+}
+
+#recipe-list li strong {
+    color: #4CAF50;
+}
+
+#loading-spinner {
+    border: 8px solid rgba(76, 175, 80, 0.3);
+    border-top: 8px solid #4CAF50;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: pulse 1s ease-in-out infinite;
+    margin: 20px auto;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 0.5;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    #ingredient-text {
+        width: 100%;
+    }
+
+    button {
+        width: 100%;
+    }
+}
