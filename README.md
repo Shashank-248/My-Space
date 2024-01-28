@@ -12,7 +12,8 @@ I am a passionate and dedicated engineering student pursuing a degree in compute
 - **Database:** MySQL(currently learning)
 - **Version Control:** Git
 
-### Projects
+## Projects
+
 
 
 # Voice Translator using Python
@@ -37,19 +38,19 @@ Note: The script supports a wide range of languages, and the user can specify th
 
 Welcome to the Recipe Generator web application! This project is designed to help users create recipes based on the ingredients they have available. Whether you're a cooking enthusiast or just looking for inspiration, this tool has got you covered.
 
-## Features
+### Features
 
 - **Ingredient Input:** Easily input the ingredients you have on hand.
 - **Recipe Generation:** Click the "Generate Recipes" button to receive a list of recipes based on your entered ingredients.
 - **User-Friendly Display:** Neatly presented recipes with clear instructions and ingredient details.
 
-## Visual Design
+### Visual Design
 
 - Modern and user-friendly design.
 - Responsive layout for a seamless experience on various devices.
 - Utilizes the Roboto font from Google Fonts for clean and readable text.
 
-## Code Structure
+### Code Structure
 
 - **HTML:** Defines the structure of the web page.
 - **CSS (style.css):** Styles HTML elements for a visually appealing layout.
