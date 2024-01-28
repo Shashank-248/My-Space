@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate and dedicated engineering student pursuing a degree in computer science at [Vignan Institute of Science and Technology /JNTUH] in Hyderabad, Telangana, India. My journey is fueled by a love for coding, a quest for continuous learning, and a desire to make a meaningful impact in the world of technology.
+I am a passionate and dedicated engineering student pursuing a degree in computer science at [Vignan Institute of Technology and Science /JNTUH] in Hyderabad, Telangana, India. My journey is fueled by a love for coding, a quest for continuous learning, and a desire to make a meaningful impact in the world of technology.
 
 ## Skills
 
