@@ -12,9 +12,8 @@ I am a passionate and dedicated engineering student pursuing a degree in compute
 - **Database:** MySQL(currently learning)
 - **Version Control:** Git
 
-## Projects
+### Projects
 
-### Project 1: Real-time language translator
 
 # Voice Translator using Python
 
@@ -34,7 +33,6 @@ Note: The script supports a wide range of languages, and the user can specify th
 [Include a link to the project repository]
 
 
-### Project 2: Recipe Generator
 # Recipe Generator
 
 Welcome to the Recipe Generator web application! This project is designed to help users create recipes based on the ingredients they have available. Whether you're a cooking enthusiast or just looking for inspiration, this tool has got you covered.
