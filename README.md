@@ -45,7 +45,7 @@ Welcome to the Recipe Generator web application! This project helps users create
 
 ## Achievements
 
-- Ranked among the top 15 teams in my college hackathons conducted in 2023.
+- I actively participated in the Byte-Crunchers 24-hour hackathon hosted at our college, showcasing my skills in web technology. Out of the 450+ students who took part, my project not only made it to the shortlist but also secured a position among the top 15 teams. This achievement reflects my dedication, problem-solving abilities, and proficiency in web development within the intense and competitive environment of a hackathon.
 
 ## Internship Goals
 
