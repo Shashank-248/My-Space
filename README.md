@@ -33,6 +33,35 @@ Note: The script supports a wide range of languages, and the user can specify th
 
 [Include a link to the project repository]
 
+
+### Project 2: Recipe Generator
+# Recipe Generator
+
+Welcome to the Recipe Generator web application! This project is designed to help users create recipes based on the ingredients they have available. Whether you're a cooking enthusiast or just looking for inspiration, this tool has got you covered.
+
+## Features
+
+- **Ingredient Input:** Easily input the ingredients you have on hand.
+- **Recipe Generation:** Click the "Generate Recipes" button to receive a list of recipes based on your entered ingredients.
+- **User-Friendly Display:** Neatly presented recipes with clear instructions and ingredient details.
+
+## Visual Design
+
+- Modern and user-friendly design.
+- Responsive layout for a seamless experience on various devices.
+- Utilizes the Roboto font from Google Fonts for clean and readable text.
+
+## Code Structure
+
+- **HTML:** Defines the structure of the web page.
+- **CSS (style.css):** Styles HTML elements for a visually appealing layout.
+- **JavaScript (script.js):** Manages dynamic behavior, handling user input and recipe generation.
+
+Note: This project was to just apply all the frontend conepts I learned
+
+[Include a link to the project repository]
+
+
 ## Achievements
 
 - Among #15 teams of my college hackathons conducted in 2k23
@@ -43,7 +72,8 @@ I am actively working towards securing an internship at top-tier companies like 
 
 ## How to Reach Me
 
-- LinkedIn: @Shashank Kumar
+- LinkedIn: Shashank S
+    https://www.linkedin.com/in/shashank-248s/
 - Email: shashankkumar248@yahoo.com
 
 
